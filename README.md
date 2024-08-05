@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
 ## Cronología
-Estructuramos nuestro Gantt en cuatro departamentos clave:
+Estructuramos nuestro Gantt en cuatro áreas clave:
 
 __Administración:__ Encargado de la gestión general y la coordinación de todos los departamentos.<br>
 __Data Analytics:__ Responsable de analizar los datos de las reseñas y la satisfacción del cliente para proporcionar insights accionables.<br>
