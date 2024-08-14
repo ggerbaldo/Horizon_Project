@@ -2,7 +2,8 @@
 
 [link a página](https://horizon-project-modelo-knn.streamlit.app/)
 
-Contexto: El objetivo del modelo (recomendar locales gastronómicos) y la metodología utilizada (KNN).
+### Contexto: 
+El objetivo del modelo (recomendar locales gastronómicos) y la metodología utilizada (KNN).
 
 La elección de KNN como algoritmo para un modelo de recomendación de locales gastronómicos cerca de estadios de fútbol se fundamenta en varias razones:
 
