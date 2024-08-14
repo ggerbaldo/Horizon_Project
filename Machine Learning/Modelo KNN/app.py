@@ -25,6 +25,92 @@ nltk.download('stopwords', quiet=True)
 nltk.download('wordnet', quiet=True)
 nltk.download('punkt', quiet=True)
 
+# URL de la imagen de fondo
+background_image_url = "https://github.com/Pabloclementi/test/blob/main/ac515990-1f33-47ca-bdff-a0c7e85dbd05.jpeg?raw=true"
+
+# Agregar estilo personalizado
+st.markdown(f"""
+    <style>
+        .stApp {{
+            background-image: url("{background_image_url}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #E0E0E0;
+            opacity: 0.75; /* Opacidad de la imagen de fondo */
+        }}
+        .title {{
+            font-size: 2.5em;
+            font-weight: bold;
+            text-align: center;
+            padding-top: 20px;
+            color: #FFFFFF;
+            text-shadow: 2px 2px 6px #000;
+        }}
+        h1, h2, h3, h4, h5, h6 {{
+            color: #FFFFFF;
+            text-shadow: 2px 2px 6px #000;
+        }}
+        .stTextInput > label {{
+            color: #FFFFFF;
+        }}
+        .stSelectbox > label {{
+            color: #FFFFFF;
+        }}
+        .stTextInput>div>input {{
+            color: #000000;
+            background-color: #FFFFFF;
+        }}
+        .stSelectbox>div>input {{
+            color: #000000;
+            background-color: #FFFFFF;
+        }}
+        .restaurant-card {{
+            border: 1px solid #FFD700;
+            border-radius: 8px;
+            padding: 10px;
+            margin: 10px 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #FFFFFF;
+            text-shadow: 1px 1px 3px #000;
+        }}
+        .restaurant-card h4 {{
+            margin: 0;
+            padding-bottom: 10px;
+            font-size: 1.5em;
+            font-weight: bold;
+        }}
+        .restaurant-card p {{
+            margin: 0;
+            padding-bottom: 10px;
+            font-size: 1.2em;
+        }}
+        .restaurant-card a {{
+            color: #1E90FF;
+            text-decoration: none;
+        }}
+        .stButton>button {{
+            background-color: #FF4500;
+            color: white;
+            border: 2px solid #FF4500;
+            border-radius: 4px;
+            padding: 10px 20px;
+            font-size: 1em;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            transition: background-color 0.3s ease;
+        }}
+        .stButton>button:hover {{
+            background-color: black;
+            color: #FF4500;
+        }}
+        .stMarkdown {{
+            color: #FFFFFF;
+            font-weight: bold;
+        }}
+    </style>
+""", unsafe_allow_html=True)
+
 # Cargar los datos
 def load_data():
     query = """
@@ -118,10 +204,16 @@ def main():
                 top_5_closest_names = unique_locales.head(5).reset_index(drop=True)
                 top_5_closest_names.index += 1
 
+
+
                 for index, row in top_5_closest_names.iterrows():
-                    st.markdown(f"*{index}. {row['name']}* - Rating: {row['avg_rating']}")
-                    st.markdown(f"[Ir a Googlemap]({row['url']})")
-                    
+                    st.markdown(f"""
+                        <div class="restaurant-card">
+                            <h4>{index}. {row['name']}</h4>
+                            <p>Rating: {row['avg_rating']}</p>
+                            <p><a href="{row['url']}" target="_blank">Ir a Googlemap</a></p>
+                        </div>
+                    """, unsafe_allow_html=True)
         else:
             st.write("Por favor, ingrese tanto una palabra clave como un nombre de estadio.")
 
