@@ -19,7 +19,7 @@ Selección de estadio y palabra clave: El usuario puede seleccionar un estadio y
 Se establecieron como hiperparámetros a probar los valores de N : (2, 5, 9).
 Las métricas utilizadas en el contexto de la recomendación de restaurantes:
 
-Accuracy: Mide qué tan a menudo el modelo acierta al recomendar un restaurante.
+Accuracy: Mide qué tan a menudo el modelo acierta al recomendar un restaurante.\n
 Precision: Mide qué tan confiables son las recomendaciones. Si el modelo recomienda un restaurante, es muy probable que sea bueno.
 Recall: Mide qué tan completo es el modelo. Si hay muchos restaurantes buenos, ¿el modelo los encuentra todos?
 F1-score: Nos da una idea general de lo bueno que es el modelo, considerando tanto su precisión como su capacidad para encontrar todos los restaurantes relevantes.
