@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+google-cloud-bigquery
+python-dotenv
+db-dtypes
+google-cloud-bigquery-storage
+numpy
+scipy
+joblib
+nltk==3.8.1
+
