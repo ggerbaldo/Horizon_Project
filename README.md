@@ -97,6 +97,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
  - Renato Giovanetti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-giovanetti-65bb61147/)
  - Pablo Clementi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-clementi-511b211b3/)
  - Guillermo Gerbaldo [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-gerbaldo-18a7144/)
- - Eugenia Memolli [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-nombre-de-usuario/](https://www.linkedin.com/in/maria-eugenia-memolli/)
+ - Eugenia Memolli [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eugenia-memolli/)
  - Jessica Sandagorda [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasandagorda/)
 
