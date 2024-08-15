@@ -1,7 +1,6 @@
 
-![LOGO](src/WS.jpeg)
 ***
-# <p align="center">Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
+# <p align="center">Horizon Data: Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
 ## Índice
 
