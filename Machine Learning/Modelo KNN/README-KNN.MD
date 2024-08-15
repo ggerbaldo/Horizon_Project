@@ -3,23 +3,26 @@
 [Ingreso al modelo de recomendación](https://horizon-project-modelo-knn.streamlit.app/)
 
 ### Contexto: 
-Como parte del análisis de los locales gastronómicos en las cercanías de los estadios de fútbol de la Major League Soccer (MLS), el objetivo de trabajar sobre un modelo de machine learning es proporcionar al cliente una herramienta de recomendación que devuelva una lista con las mejores experiencias gastronómicas cercanas, basado en el tipo de cocina, la calificacón promedio del público.
+Como parte del análisis de los locales gastronómicos en las cercanías de los estadios de fútbol de la Major League Soccer (MLS), el objetivo de trabajar sobre un modelo de machine learning es proporcionar al cliente una herramienta de recomendación que devuelva una lista con las mejores experiencias gastronómicas cercanas, basado en el tipo de cocina y la calificacón promedio del público.
 
-La elección de K-ear Neighbors (KNN) como modelo para el sistema de recomendación se fundamenta en varias razones:
+La elección de K-Near Neighbors (KNN) como modelo para el sistema de recomendación se fundamenta en varias razones:
 
-Datos multidimensionales: Los datos de los locales gastronómicos suelen incluir múltiples características numéricas (calificación promedio, número de reseñas, distancia al estadio) y categóricas como ser el tipo de cocina. KNN es capaz de manejar eficientemente este tipo de datos.
-Si un usuario busca un lugar para comer pizza cerca del estadio, es lógico recomendarle los locales que otros usuarios que han buscado lo mismo han valorado positivamente.
+Datos multidimensionales: Los datos de los locales gastronómicos suelen incluir múltiples características numéricas (calificación promedio, número de reseñas, distancia al estadio) y categóricas como ser el tipo de cocina. KNN es capaz de manejar eficientemente este tipo de datos. Si un usuario busca un lugar para comer pizza cerca del estadio, es lógico recomendarle los locales que otros usuarios que han buscado lo mismo han valorado positivamente.
 No es lineal: Las relaciones entre las características y la preferencia de los usuarios pueden ser no lineales. Este modelo no asume ninguna forma funcional específica para la relación entre las variables, lo que lo hace flexible para capturar patrones complejos.
 Fácil de interprer: Es relativamente fácil entender cómo los locales recomendados son similares a los que otros usuarios han valorado positivamente. Esto facilita la explicación de las recomendaciones al usuario.
-Es adaptable a nuevos datos sin necesidad de volver a entrenar el modelo por completo. A medida que se agregan nuevos locales o reseñas, el modelo se actualiza automáticamente.
+Es adaptable a nuevos datos sin necesidad de volver a entrenar el modelo por completo. A medida que se agregan nuevos locales o reseñas, el modelo se puede entrenar y actualizar automáticamente, según el requerimiento del cliente.
 
 Ajuste a las características de la aplicación:
 Selección de estadio y palabra clave: El usuario puede seleccionar un estadio y una palabra clave, lo que permite personalizar las recomendaciones. El modelo puede adaptarse fácilmente a estas restricciones al buscar los vecinos más cercanos dentro del subconjunto de datos que cumple con los criterios de búsqueda, tomándose como positivos aquellos locales con una calificación promedio superior a 3,5, y poseer al menos veinte (20) reseñas.
 
+### Entrenamiento del modelo:
+
+Entrenar un modelo de machine learning, en este caso un modelo KNN (K-Nearest Neighbors), es el proceso mediante el cual el modelo aprende a realizar predicciones basadas en un conjunto de datos de entrenamiento. El objetivo es que el modelo aprenda a identificar patrones y relaciones en los datos, de manera que pueda aplicar ese conocimiento para hacer predicciones en nuevos datos que no ha visto antes.
+Se divide el dataset en 80% para entrenamiento y 20% para prueba aa efectos de ayudar a garantizar que el modelo no solo funcione bien en los datos de entrenamiento, sino que también tenga la capacidad de generalizar y hacer buenas predicciones en datos nuevos.
 
 ### Experimentación:
-Se establecieron como hiperparámetros a probar los valores de N : (2, 5, 9).
-Las métricas utilizadas en el contexto de la recomendación de restaurantes:
+Se establecieron como hiperparámetros a analizar los valores de K: (2, 5, 9).
+Las métricas utilizadas en el contexto de la recomendación de restaurantes son:
 
 **Accuracy**: Mide qué tan a menudo el modelo acierta al recomendar un restaurante.  
 **Precision**: Mide qué tan confiables son las recomendaciones. Si el modelo recomienda un restaurante, es muy probable que sea bueno.  
