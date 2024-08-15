@@ -1,11 +1,11 @@
-### Modelo de Machine Learning aplicado a un sistema de recomendación de locales gastronómicos.
+### Modelo de Machine Learning K-Near Neighbors aplicado a un sistema de recomendación de locales gastronómicos.
 
 [Ingreso al modelo de recomendación](https://horizon-project-modelo-knn.streamlit.app/)
 
 ### Contexto: 
-El objetivo del modelo (recomendar locales gastronómicos) y la metodología utilizada (KNN).
+Como parte del análisis de los locales gastronómicos en las cercanías de los estadios de fútbol de la Major League Soccer (MLS), el objetivo de trabajar sobre un modelo de machine learning es proporcionar al cliente una herramienta de recomendación que devuelva una lista con las mejores experiencias gastronómicas cercanas, basado en el tipo de cocina, la calificacón promedio del público.
 
-La elección de KNN como algoritmo para un modelo de recomendación de locales gastronómicos cerca de estadios de fútbol se fundamenta en varias razones:
+La elección de K-ear Neighbors (KNN) como modelo para el sistema de recomendación se fundamenta en varias razones:
 
 Datos multidimensionales: Los datos de los locales gastronómicos suelen incluir múltiples características numéricas (calificación promedio, número de reseñas, distancia al estadio) y categóricas como ser el tipo de cocina. KNN es capaz de manejar eficientemente este tipo de datos.
 Si un usuario busca un lugar para comer pizza cerca del estadio, es lógico recomendarle los locales que otros usuarios que han buscado lo mismo han valorado positivamente.
