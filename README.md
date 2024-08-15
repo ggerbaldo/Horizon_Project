@@ -71,18 +71,27 @@ __3. Disminuir reseñas negativas (calificación 1 o 2)__
   - *Objetivo:* -5%
 
 ## Tecnologías Seleccionadas
+
 ![Pipeline de datos](src/stack.png)
 
 ## PipeLine
 El pipeline de datos, ilustrado en el siguiente diagrama, describe el flujo de datos desde su ingesta inicial hasta su análisis y modelado final. Este pipeline está diseñado para ser escalable, eficiente y automatizado, asegurando la integridad y disponibilidad de los datos en cada etapa del proceso. 
+
 ![Pipeline de datos](src/Data_Pipeline.jpg)
+
 ## Cronología
+A lo largo del proyecto utilizamos la metodología Scrum
+
+![Pipeline de datos](src/image212.png)
+
 Estructuramos nuestro Gantt en cuatro áreas clave:
 
 __Administración:__ Encargado de la gestión general y la coordinación de todos los departamentos.<br>
 __Data Analytics:__ Responsable de analizar los datos de las reseñas y la satisfacción del cliente para proporcionar insights accionables.<br>
 __Data Engineering:__ Se ocupa de la infraestructura y las herramientas necesarias para recopilar y procesar los datos de manera eficiente.<br>
 __Machine Learning OPS:__ Enfocado en desarrollar modelos predictivos que nos ayuden a anticipar tendencias y mejorar la toma de decisiones.<br>
+
+![Pipeline de datos](src/imag2e.png)
 
 ## Dashboard de Análisis
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
