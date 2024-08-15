@@ -84,12 +84,12 @@ A lo largo del proyecto utilizamos la metodología Scrum
 
 ![Pipeline de datos](src/image212.png)
 
-Estructuramos nuestro Gantt en cuatro áreas clave:
+## Estructuramos nuestro Gantt en cuatro áreas clave:
 
-__Administración:__ Encargado de la gestión general y la coordinación de todos los departamentos.<br>
-__Data Analytics:__ Responsable de analizar los datos de las reseñas y la satisfacción del cliente para proporcionar insights accionables.<br>
-__Data Engineering:__ Se ocupa de la infraestructura y las herramientas necesarias para recopilar y procesar los datos de manera eficiente.<br>
-__Machine Learning OPS:__ Enfocado en desarrollar modelos predictivos que nos ayuden a anticipar tendencias y mejorar la toma de decisiones.<br>
+  - __Administración:__ Encargado de la gestión general y la coordinación de todos los departamentos.<br>
+  - __Data Analytics:__ Responsable de analizar los datos de las reseñas y la satisfacción del cliente para proporcionar insights accionables.<br>
+  - __Data Engineering:__ Se ocupa de la infraestructura y las herramientas necesarias para recopilar y procesar los datos de manera eficiente.<br>
+  - __Machine Learning OPS:__ Enfocado en desarrollar modelos predictivos que nos ayuden a anticipar tendencias y mejorar la toma de decisiones.<br>
 
 ![Pipeline de datos](src/imag2e.png)
 
