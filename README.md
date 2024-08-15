@@ -100,3 +100,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
  - Eugenia Memolli [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eugenia-memolli/)
  - Jessica Sandagorda [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasandagorda/)
 
+
+## Agradecimientos.
