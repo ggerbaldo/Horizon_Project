@@ -2,9 +2,13 @@
 ***
 # <p align="center">Horizon Data: Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
- - Ver video en Youtube:
+ - Link a Youtube:
     
-[![Ver en YouTube](src/WS.jpeg)](https://www.youtube.com/watch?v=1fWa2SSRG4A)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1fWa2SSRG4A">
+    <img src="WS.jpeg" alt="Ver en YouTube">
+  </a>
+</div>
 
 ## Índice
 
