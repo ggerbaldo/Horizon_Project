@@ -37,8 +37,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 
 
 *__Paso 2: Análisis Exploratorio de Datos (EDA)__*
+![Pipeline de datos](src/aimage.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
 
 *__Paso 3: Dashboard__*
