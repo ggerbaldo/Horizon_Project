@@ -15,8 +15,6 @@
   5. [Tecnologías Seleccionadas](#tecnologías-seleccionadas)
   6. [PipeLine](#pipeline)
   7. [Cronología](#cronología)
-  8. [Dashboard de Análisis](#dashboard-de-análisis)
-  9. [Sistema de Recomendación](#sistema-de-recomendación)
   10. [Miembros del Equipo](#miembros-del-equipo)
 
 </details>
@@ -24,7 +22,7 @@
 ## Sobre el proyecto
 
 **Objetivo**
- El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS)   la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
+ El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS) la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
 
 **Alcance**
 <Mapa con estadios>
