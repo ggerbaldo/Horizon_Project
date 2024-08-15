@@ -26,7 +26,7 @@ Además, se elaboró un Diccionario de Datos completo, que documenta cada campo 
 
 5. Pipeline de Datos
 El pipeline de datos, ilustrado en el siguiente diagrama, describe el flujo de datos desde su ingesta inicial hasta su análisis y modelado final. Este pipeline está diseñado para ser escalable, eficiente y automatizado, asegurando la integridad y disponibilidad de los datos en cada etapa del proceso.
-[Pipeline](https://github.com/ggerbaldo/Horizon_Project/blob/main/src/Data_Pipeline.jpg?raw=true)
+![Pipeline](https://github.com/ggerbaldo/Horizon_Project/blob/main/src/Data_Pipeline.jpg?raw=true)
 
 7. Descripción del Proceso de Ingeniería de Datos
 6.1. Recepción de Datos:
