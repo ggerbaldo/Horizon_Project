@@ -116,11 +116,6 @@ A lo largo del proyecto utilizamos la metodología Scrum
 
 ![Pipeline de datos](src/imag2e.png)
 
-## Dashboard de Análisis
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
-
-## Sistema de Recomendación
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
 ## Miembros del Equipo
 
@@ -134,3 +129,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 
 
 ## Agradecimientos.
+
+Queremos expresar nuestro más sincero agradecimiento a todos los que han sido parte de este increíble viaje de aprendizaje. A nuestros compañeros, quienes han sido una fuente constante de motivación y apoyo; a los profesores, por su dedicación y paciencia al compartir su conocimiento; y a los TA’s, por estar siempre dispuestos a ayudarnos y guiarnos en cada paso del camino. También agradecemos de corazón a toda la comunidad de Henry, por crear un ambiente en el que el aprendizaje y el crecimiento personal se encuentran en el centro de todo.
+
+¡Gracias a todos por hacer de esta experiencia algo inolvidable!
+
