@@ -1,7 +1,6 @@
 
-![LOGO](src/WS.jpeg)
 ***
-# <p align="center">Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
+# <p align="center">Horizon Data: Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
 ## Índice
 
@@ -24,7 +23,9 @@
 **Objetivo**
  El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS) la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
  
-[![Ver en YouTube](https://img.youtube.com/vi/1fWa2SSRG4A/0.jpg)](https://www.youtube.com/watch?v=1fWa2SSRG4A)
+  - Ver video en Youtube:
+    
+[![Ver en YouTube](src/WS.jpeg)](https://www.youtube.com/watch?v=1fWa2SSRG4A)
 
 **Alcance**
 ![Pipeline de datos](src/Alcance-USA.jpeg)
