@@ -23,6 +23,8 @@
 
 **Objetivo**
  El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS) la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
+ 
+https://www.youtube.com/watch?v=1fWa2SSRG4A
 
 **Alcance**
 ![Pipeline de datos](src/Alcance-USA.jpeg)
