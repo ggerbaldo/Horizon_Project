@@ -1,5 +1,5 @@
-<Logo de HorizonData>
 
+![LOGO](src/WhatsApp Image 2024-07-25 at 5.10.54 PM.jpeg)
 ***
 # <p align="center">Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
@@ -25,7 +25,7 @@
  El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS) la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
 
 **Alcance**
-<Mapa con estadios>
+![Pipeline de datos](src/Alcance-USA.jpeg)
 
 ## Guía Paso a Paso
 
