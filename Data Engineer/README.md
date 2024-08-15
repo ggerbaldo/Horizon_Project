@@ -1,9 +1,13 @@
 Ingeniería de Datos para el Análisis de Restaurantes en Cercanía de Estadios de la MLS
 Este documento detalla el proceso de ingeniería de datos para nuestro proyecto, que abarca la definición del alcance, el procesamiento de datos, y la construcción de la canalización de datos (Pipeline).
+
 1. Alcance del Proyecto
+   
 El objetivo de este proyecto es realizar un análisis exhaustivo de la oferta gastronómica en las cercanías de los estadios de la Major League Soccer (MLS). Con el creciente interés en la MLS impulsado por la llegada de grandes figuras del fútbol mundial, los estadios se han convertido en epicentros de actividad no solo durante los partidos, sino también en eventos deportivos y de entretenimiento. Este proyecto busca identificar oportunidades de negocio y recomendar inversiones estratégicas en la industria gastronómica en estas áreas de alta afluencia.
 Para establecer el alcance del proyecto, se emplearon técnicas avanzadas de análisis de datos y búsquedas focalizadas. Esto nos permitió centrar nuestros esfuerzos en mercados con el mayor potencial de crecimiento y retorno de inversión.
-2. Procesamiento de Datos
+
+3. Procesamiento de Datos
+
 2.1. Fuentes de Datos
 Nuestras fuentes de datos incluyen:
 •	Google y Yelp: Datos extraídos en formato JSON.
