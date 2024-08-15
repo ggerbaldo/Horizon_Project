@@ -1,6 +1,6 @@
 ### Modelo de Machine Learning aplicado a un sistema de recomendación de locales gastronómicos.
 
-[link a página](https://horizon-project-modelo-knn.streamlit.app/)
+[Ingreso al modelo de recomendación](https://horizon-project-modelo-knn.streamlit.app/)
 
 ### Contexto: 
 El objetivo del modelo (recomendar locales gastronómicos) y la metodología utilizada (KNN).
