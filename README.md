@@ -74,8 +74,8 @@ __3. Disminuir reseñas negativas (calificación 1 o 2)__
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
 ## PipeLine
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
-
+El pipeline de datos, ilustrado en el siguiente diagrama, describe el flujo de datos desde su ingesta inicial hasta su análisis y modelado final. Este pipeline está diseñado para ser escalable, eficiente y automatizado, asegurando la integridad y disponibilidad de los datos en cada etapa del proceso. 
+![Pipeline de datos](src/Data_Pipeline.jpg)
 ## Cronología
 Estructuramos nuestro Gantt en cuatro áreas clave:
 
