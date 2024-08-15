@@ -42,6 +42,7 @@
 
 *__Paso 1: ETL (Extracción, Transformación y Carga)__*
 
+![1](src/VIDEOasdasDATAs.png)
 
 *__Paso 2: Análisis Exploratorio de Datos (EDA)__*
 ![Pipeline de datos](src/aimage.png)
