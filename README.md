@@ -1,5 +1,5 @@
 
-![LOGO](src/WhatsApp Image 2024-07-25 at 5.10.54 PM.jpeg)
+![LOGO](src/WS.jpeg)
 ***
 # <p align="center">Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
