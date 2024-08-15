@@ -2,7 +2,12 @@
 ***
 # <p align="center">Horizon Data: Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
+ - Ver video en Youtube:
+    
+[![Ver en YouTube](src/WS.jpeg)](https://www.youtube.com/watch?v=1fWa2SSRG4A)
+
 ## Índice
+
 
 <details>
   <summary>Tabla de contenido</summary>
@@ -22,12 +27,9 @@
 
 **Objetivo**
  El objetivo es brindar a una compañía administradora de estadios de la Major League Soccer (MLS) la información necesaria para definir la concesión de sus locales gastronómicos y monitorear la calidad del servicio.
- 
-  - Ver video en Youtube:
-    
-[![Ver en YouTube](src/WS.jpeg)](https://www.youtube.com/watch?v=1fWa2SSRG4A)
 
-**Alcance**
+
+## Alcance 
 ![Pipeline de datos](src/Alcance-USA.jpeg)
 
 ## Guía Paso a Paso
@@ -120,13 +122,12 @@ A lo largo del proyecto utilizamos la metodología Scrum
 
 ## Miembros del Equipo
 
-
-
- - Renato Giovanetti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-giovanetti-65bb61147/)
- - Pablo Clementi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-clementi-511b211b3/)
- - Guillermo Gerbaldo [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-gerbaldo-18a7144/)
  - Eugenia Memolli [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eugenia-memolli/)
+ - Guillermo Gerbaldo [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-gerbaldo-18a7144/)
  - Jessica Sandagorda [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasandagorda/)
+ - Pablo Clementi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-clementi-511b211b3/)
+ - Renato Giovanetti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-giovanetti-65bb61147/)
+
 
 
 ## Agradecimientos.
