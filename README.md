@@ -49,6 +49,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
+Claro, aquí tienes una versión más pulida para incluir en tu README:
+
+  - Modelo de Recomendación:
+Este modelo de recomendación está diseñado para ayudarte a encontrar los locales gastronómicos más similares a uno de tu interés, según el estadio que elijas. Solo necesitas seleccionar un estadio y el nombre de un local gastronómico, y el sistema te devolverá una lista de locales similares para que puedas explorar nuevas opciones.
+![Pipeline de datos](src/reco.png)
+
+  - Modelo KNN:
+
+El modelo KNN (K-Nearest Neighbors) ofrece recomendaciones basadas en la categoría y el estadio que selecciones. Al ingresar el estadio y la categoría de tu interés, el modelo te devolverá el lugar con las mejores calificaciones y más recomendado en esa zona. Además, proporciona la URL de Google Maps para facilitar la ubicación y el acceso al lugar.
+
+![Pipeline de datos](src/KNN.png)
 ## KPI
 Los indicadores clave de rendimiento nos ayudarán a enfocarnos en objetivos claros y medibles para impulsar el éxito de nuestros establecimientos.
 
