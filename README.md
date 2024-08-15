@@ -42,10 +42,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 
 
 *__Paso 3: Dashboard__*
+
 Descripción General
+
 Este tablero de Power BI ha sido diseñado para proporcionar una visión completa y detallada sobre los locales gastronómicos ubicados cerca de los estadios de la MLS en Estados Unidos. A través de este análisis, los usuarios pueden explorar la distribución geográfica de los locales, identificar los tipos de locales más populares y realizar comparaciones entre diferentes estados y estadios. Además, se ofrece una evaluación exhaustiva de las calificaciones y reseñas realizadas por los clientes, permitiendo un seguimiento de las tendencias a lo largo del tiempo. El objetivo principal es facilitar la toma de decisiones estratégicas para mejorar la experiencia gastronómica en los estadios y optimizar la oferta disponible.
+dashboard:
+
+1-Análisis
+![Pipeline de datos](src/DATO1.png)
+
+2-Análisis
+![Pipeline de datos](src/DATOS2.png)
+
+3-Análisis
+![Pipeline de datos](src/DATOS3.png)
 
 *__Paso 4: Modelo de Recomendación__*
+
 Los sistemas que hemos implementado brindan una funcionalidad avanzada para la recomendación de restaurantes, basándose en técnicas como la similitud coseno y el modelo de vecinos más cercanos. Este desarrollo ejemplifica cómo la combinación de herramientas diversas y metodologías especializadas, como Streamlit, BigQuery y Machine Learning, pueden integrarse de manera efectiva para crear una aplicación web interactiva, intuitiva y altamente útil. A través de esta solución, demostramos cómo la tecnología puede transformar datos complejos en recomendaciones precisas y valiosas, mejorando tanto la experiencia del usuario final como la toma de decisiones estratégicas.
 
 
