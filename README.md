@@ -3,22 +3,13 @@
 # <p align="center">Horizon Data: Análisis de Reseñas de Locales Gastronómicos Cercanos a Estadios de la MLS</p>
 
  - Link a Youtube:
-    
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1fWa2SSRG4A">
-    <img src="WS.jpeg" alt="Ver en YouTube">
+    <img src="https://github.com/ggerbaldo/Horizon_Project/blob/main/src/WS.jpeg?raw=true" alt="Ver en YouTube">
   </a>
 </div>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=1fWa2SSRG4A">
-    <img src="./WS.jpeg" alt="Ver en YouTube">
-  </a>
-</div>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=1fWa2SSRG4A">
-    <img src="./images/WS.jpeg" alt="Ver en YouTube">
-  </a>
-</div>
+
 
 
 ## Índice
