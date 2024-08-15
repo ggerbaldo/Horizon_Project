@@ -15,7 +15,7 @@
   5. [Tecnologías Seleccionadas](#tecnologías-seleccionadas)
   6. [PipeLine](#pipeline)
   7. [Cronología](#cronología)
-  10. [Miembros del Equipo](#miembros-del-equipo)
+  8. [Miembros del Equipo](#miembros-del-equipo)
 
 </details>
 
