@@ -91,6 +91,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
 
 ## Miembros del Equipo
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel augue imperdiet, maximus mi nec, posuere orci. Integer tempus sodales magna, id sodales ex tempor id. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum porttitor ultrices. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-giovanetti-65bb61147/)
+
+
+
+ - Renato Giovanetti [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-giovanetti-65bb61147/)
+ - Pablo Clementi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/renato-giovanetti-65bb61147/](https://www.linkedin.com/in/pablo-clementi-511b211b3/)) 
 
