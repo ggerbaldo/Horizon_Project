@@ -70,12 +70,12 @@ dashboard:
 Los sistemas que hemos implementado brindan una funcionalidad avanzada para la recomendación de restaurantes, basándose en técnicas como la similitud coseno y el modelo de vecinos más cercanos. Este desarrollo ejemplifica cómo la combinación de herramientas diversas y metodologías especializadas, como Streamlit, BigQuery y Machine Learning, pueden integrarse de manera efectiva para crear una aplicación web interactiva, intuitiva y altamente útil. A través de esta solución, demostramos cómo la tecnología puede transformar datos complejos en recomendaciones precisas y valiosas, mejorando tanto la experiencia del usuario final como la toma de decisiones estratégicas.
 
 
-  - Modelo de Recomendación:
+  - [Modelo de Recomendación](https://horizon-project-recomendacion.streamlit.app/)
     
 Este modelo de recomendación está diseñado para ayudarte a encontrar los locales gastronómicos más similares a uno de tu interés, según el estadio que elijas. Solo necesitas seleccionar un estadio y el nombre de un local gastronómico, y el sistema te devolverá una lista de locales similares para que puedas explorar nuevas opciones.
 ![Pipeline de datos](src/reco.png)
 
-  - Modelo KNN:
+  - [Modelo KNN](https://horizon-project-modelo-knn.streamlit.app/)
 
 El modelo KNN (K-Nearest Neighbors) ofrece recomendaciones basadas en la categoría y el estadio que selecciones. Al ingresar el estadio y la categoría de tu interés, el modelo te devolverá el lugar con las mejores calificaciones y más recomendado en esa zona. Además, proporciona la URL de Google Maps para facilitar la ubicación y el acceso al lugar.
 
@@ -123,6 +123,10 @@ A lo largo del proyecto utilizamos la metodología Scrum
   - __Machine Learning OPS:__ Enfocado en desarrollar modelos predictivos que nos ayuden a anticipar tendencias y mejorar la toma de decisiones.<br>
 
 ![Pipeline de datos](src/imag2e.png)
+
+
+## Conclusion 
+El proyecto demuestra cómo la integración de tecnologías avanzadas y análisis de datos puede mejorar tanto la experiencia del usuario como la gestión operativa de locales gastronómicos en estadios de la MLS. El tablero de Power BI y el modelo de recomendación basado en KNN permiten una toma de decisiones estratégica y centrada en el cliente, promoviendo una mayor satisfacción y rentabilidad.
 
 
 ## Miembros del Equipo
