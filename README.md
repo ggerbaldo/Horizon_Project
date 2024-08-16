@@ -60,7 +60,7 @@ dashboard:
 ![Pipeline de datos](src/DATO1.png)
 
 2-Análisis
-![Pipeline de datos](src/DATOS2.png)
+![Pipeline de datos](src/1image.png)
 
 3-Análisis
 ![Pipeline de datos](src/DATOS3.png)
