@@ -3,7 +3,7 @@
 [Ingreso al modelo de recomendación](https://horizon-project-modelo-knn.streamlit.app/)
 
 ### Contexto: 
-Como parte del análisis de los locales gastronómicos en las cercanías de los estadios de fútbol de la Major League Soccer (MLS), el objetivo de trabajar sobre un modelo de machine learning es proporcionar al cliente una herramienta de recomendación que devuelva una lista con las mejores experiencias gastronómicas cercanas, basado en el tipo de cocina y la calificacón promedio del público.
+Como parte del análisis de los locales gastronómicos en las cercanías de los estadios de fútbol de la Major League Soccer (MLS), el objetivo de trabajar sobre un modelo de machine learning es proporcionar al cliente una herramienta de recomendación que devuelva una lista con las mejores experiencias gastronómicas cercanas, basado en el tipo de cocina y la calificación promedio del público.
 
 La elección de K-Nearest Neighbors (KNN) como modelo para el sistema de recomendación se fundamenta en varias razones:
 
