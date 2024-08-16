@@ -30,9 +30,9 @@ Las métricas utilizadas en el contexto de la recomendación de restaurantes son
 **F1-score**: Nos da una idea general de lo bueno que es el modelo, considerando tanto su precisión como su capacidad para encontrar todos los restaurantes relevantes.  
 
 ### Análisis de resultados:
-**N=2**: Si bien obtuvo la mayor precisión, podría estar sobreajustado, ya que un valor de N muy bajo puede hacer que el modelo sea demasiado sensible a los datos de entrenamiento.  
-**N=5**: Este valor parece ofrecer un buen equilibrio entre precisión, recall y F1-score. La alta precisión indica que el modelo predice correctamente las clases positivas (restaurantes relevantes), mientras que el alto recall indica que el modelo identifica la mayoría de las instancias positivas. El F1-score, siendo la media armónica de precisión y recall, proporciona una medida general del rendimiento del modelo.  
-**N=9**: Si bien el recall es similar al de N=5, la precisión y el F1-score son ligeramente inferiores. Esto sugiere que un valor de N demasiado alto podría estar suavizando demasiado las decisiones del modelo.  
+**K=2**: Si bien obtuvo la mayor precisión, podría estar sobreajustado, ya que un valor de N muy bajo puede hacer que el modelo sea demasiado sensible a los datos de entrenamiento.  
+**K=5**: Este valor parece ofrecer un buen equilibrio entre precisión, recall y F1-score. La alta precisión indica que el modelo predice correctamente las clases positivas (restaurantes relevantes), mientras que el alto recall indica que el modelo identifica la mayoría de las instancias positivas. El F1-score, siendo la media armónica de precisión y recall, proporciona una medida general del rendimiento del modelo.  
+**K=9**: Si bien el recall es similar al de N=5, la precisión y el F1-score son ligeramente inferiores. Esto sugiere que un valor de N demasiado alto podría estar suavizando demasiado las decisiones del modelo.  
 
 ### Conclusión:
 Los resultados obtenidos muestran que el valor de N=5 ofrece un equilibrio óptimo entre precisión y recall. Si bien N=2 logra una precisión ligeramente mayor, existe el riesgo de sobreajuste. Por otro lado, N=9, aunque ofrece un alto recall, presenta una ligera disminución en la precisión y el F1-score. Por lo tanto, se seleccionó N=5 como el valor óptimo para el modelo KNN, ya que permite obtener recomendaciones precisas y relevantes sin comprometer la capacidad de generalización.
